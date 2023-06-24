@@ -14,9 +14,10 @@ Acesse meu site e confira as soluções que desenvolvo.
 <br><br>
 <a href="https://newerati.com.br" target="_blank"><img src="https://newerati.com.br/assets/images/logo.png" target="_blank"></a> 
 
-### Ferramentas e Tecnologias
+### Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="27" height="27"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="27" height="27"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="30" height="30"/>
+          
 
           
 #### Contatos:
